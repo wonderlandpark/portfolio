@@ -4,6 +4,7 @@ import Pageable from 'pageable'
 import Hero from '@components/Hero'
 import About from '@components/About'
 import Stack from '@components/Stack'
+import History from '@components/History'
 
 const App = () => {
 	useEffect(() => {
@@ -17,6 +18,7 @@ const App = () => {
 			<Hero />
 			<About />
 			<Stack />
+			<History />
 		</div>
 	</div>
 }
