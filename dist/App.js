@@ -1,5 +1,4 @@
-import React, {useEffect} from "../_snowpack/pkg/react.js";
-import Pageable from "../_snowpack/pkg/pageable.js";
+import React from "../_snowpack/pkg/react.js";
 import Hero from "./components/Hero.js";
 import About from "./components/About.js";
 import Stack from "./components/Stack.js";
@@ -7,12 +6,6 @@ import Project from "./components/Project.js";
 import History from "./components/History.js";
 import Contact from "./components/Contact.js";
 const App = () => {
-  useEffect(() => {
-    new Pageable("#container", {
-      animation: 500,
-      swipeThreshold: 200
-    });
-  }, []);
   return /* @__PURE__ */ React.createElement("div", {
     id: "container",
     className: "w-full"
