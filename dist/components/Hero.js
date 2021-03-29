@@ -3,7 +3,8 @@ import Container from "./Container.js";
 const Hero = () => {
   return /* @__PURE__ */ React.createElement(Container, {
     className: "flex items-center justify-center",
-    id: "hero"
+    id: "hero",
+    ignorePadding: true
   }, /* @__PURE__ */ React.createElement("div", {
     className: "text-center"
   }, /* @__PURE__ */ React.createElement("h1", {
