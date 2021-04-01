@@ -6,7 +6,8 @@ module.exports = {
 			colors: {
 				'sea-blue': '#4158D0',
 				'hot-pink': '#C850C0',
-				'chick-yellow': '#FFCC70'
+				'chick-yellow': '#FFCC70',
+				'github-dark': '#24292e'
 			}
 		},
 	},
