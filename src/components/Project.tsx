@@ -10,7 +10,7 @@ const Project:FC = () => {
 			<div className='px-8 py-6 lg:col-span-3 bg-gradient-to-br from-sea-blue to-blue-600 rounded-2xl transition duration-300 ease-in'>
 				<span className='text-sm text-gray-300'>REACT.JS TYPESCRIPT TAILWINDCSS</span>
 				<h1 className='text-xl lg:text-3xl font-bold'>한국 디스코드봇 리스트</h1>
-				<p className='text-gray-300 text-sm lg:text-md'>국내 디스코드 봇을 한 곳에서 찾아볼 수 있는 플랫폼입니다.</p>
+				<p className='text-gray-300 text-sm lg:text-md py-1'>국내 디스코드 봇을 한 곳에서 찾아볼 수 있는 플랫폼입니다.</p>
 				<div className='flex'>
 					<Link href='https://github.com/koreanbots/koreanbots' className='pr-1 hover:opacity-80'>
 						<FaGithub />
@@ -25,7 +25,7 @@ const Project:FC = () => {
 			<div className='px-8 py-6 lg:col-span-3 bg-gradient-to-br from-red-500 to-red-400 rounded-2xl transition duration-300 ease-in'>
 				<span className='text-sm text-gray-300'>NODE.JS</span>
 				<h1 className='text-xl lg:text-3xl font-bold'>원더봇</h1>
-				<p className='text-gray-300 text-sm lg:text-md'>관리, 도박, 미니게임, 정보 등 다양한 다기능 봇입니다.</p>
+				<p className='text-gray-300 text-sm lg:text-md py-1'>관리, 도박, 미니게임, 정보 등 다양한 다기능 봇입니다.</p>
 				<div className='flex'>
 					<Link href='https://github.com/wonderlandpark/wonderbot' className='pr-1 hover:opacity-80'>
 						<FaGithub />
