@@ -9,9 +9,9 @@ const Hero = () => {
   }, /* @__PURE__ */ React.createElement("div", {
     className: "text-center"
   }, /* @__PURE__ */ React.createElement("h1", {
-    className: "text-7xl font-black text-transparent bg-clip-text bg-gradient-to-r from-sea-blue via-hot-pink to-chick-yellow"
+    className: "text-6xl font-black text-transparent bg-clip-text bg-gradient-to-r from-sea-blue via-hot-pink to-chick-yellow"
   }, "박준서"), /* @__PURE__ */ React.createElement("p", {
-    className: "text-xl mt-2"
+    className: "text-lg font-medium mt-2"
   }, "평범한 학생 풀스택 개발자입니다."), /* @__PURE__ */ React.createElement("div", {
     className: "flex justify-center text-xl mt-2"
   }, /* @__PURE__ */ React.createElement("a", {
