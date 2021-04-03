@@ -19,7 +19,7 @@ const Project = () => {
   }, "REACT.JS TYPESCRIPT TAILWINDCSS"), /* @__PURE__ */ React.createElement("h1", {
     className: "text-xl lg:text-3xl font-bold"
   }, "한국 디스코드봇 리스트"), /* @__PURE__ */ React.createElement("p", {
-    className: "text-gray-300 text-sm lg:text-md"
+    className: "text-gray-300 text-sm lg:text-md py-1"
   }, "국내 디스코드 봇을 한 곳에서 찾아볼 수 있는 플랫폼입니다."), /* @__PURE__ */ React.createElement("div", {
     className: "flex"
   }, /* @__PURE__ */ React.createElement(Link, {
@@ -43,7 +43,7 @@ const Project = () => {
   }, "NODE.JS"), /* @__PURE__ */ React.createElement("h1", {
     className: "text-xl lg:text-3xl font-bold"
   }, "원더봇"), /* @__PURE__ */ React.createElement("p", {
-    className: "text-gray-300 text-sm lg:text-md"
+    className: "text-gray-300 text-sm lg:text-md py-1"
   }, "관리, 도박, 미니게임, 정보 등 다양한 다기능 봇입니다."), /* @__PURE__ */ React.createElement("div", {
     className: "flex"
   }, /* @__PURE__ */ React.createElement(Link, {

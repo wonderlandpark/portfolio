@@ -2,6 +2,7 @@
   "imports": {
     "react": "./react.js",
     "react-dom": "./react-dom.js",
+    "react-github-calendar": "./react-github-calendar.js",
     "react-icons/fa": "./react-icons/fa.js"
   }
 }
