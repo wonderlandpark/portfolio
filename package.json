@@ -1,7 +1,7 @@
 {
   "scripts": {
     "start": "snowpack dev",
-    "build": "snowpack build && echo portfolio.wonder.im > ./build/CNAME && touch ./build/.nojekyll",
+    "build": "snowpack build && echo wonder.im > ./build/CNAME && touch ./build/.nojekyll",
     "test": "web-test-runner \"src/**/*.test.tsx\"",
     "format": "prettier --write \"src/**/*.{js,jsx,ts,tsx}\"",
     "lint": "prettier --check \"src/**/*.{js,jsx,ts,tsx}\""
