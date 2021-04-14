@@ -29,10 +29,12 @@ const Project = () => {
     href: "https://koreanbots.dev",
     className: "pr-1 hover:opacity-80"
   }, /* @__PURE__ */ React.createElement(FaGlobe, null))), /* @__PURE__ */ React.createElement("img", {
+    loading: "lazy",
     className: "w-full py-3 rounded-2xl",
     src: "/assets/koreanbots-2.png",
     alt: "Koreanbots First"
   }), /* @__PURE__ */ React.createElement("img", {
+    loading: "lazy",
     className: "w-full rounded-2xl",
     src: "/assets/koreanbots-3.png",
     alt: "Koreanbots Second"
@@ -53,14 +55,17 @@ const Project = () => {
     href: "https://wonderbot.xyz",
     className: "pr-1 hover:opacity-80"
   }, /* @__PURE__ */ React.createElement(FaGlobe, null))), /* @__PURE__ */ React.createElement("img", {
+    loading: "lazy",
     className: "w-full py-1.5 rounded-2xl",
     src: "/assets/wonderbot-money.png",
     alt: "Wonderbot Money"
   }), /* @__PURE__ */ React.createElement("img", {
+    loading: "lazy",
     className: "w-full py-1.5 rounded-2xl",
     src: "/assets/wonderbot-moderation.png",
     alt: "Wonderbot Moderation"
   }), /* @__PURE__ */ React.createElement("img", {
+    loading: "lazy",
     className: "w-full py-1.5 rounded-2xl",
     src: "/assets/wonderbot-corona.png",
     alt: "Wonderbot Corona"
