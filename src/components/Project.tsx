@@ -19,8 +19,8 @@ const Project:FC = () => {
 						<FaGlobe />
 					</Link>
 				</div>
-				<img className='w-full py-3 rounded-2xl' src='/assets/koreanbots-2.png' alt='Koreanbots First' />
-				<img className='w-full rounded-2xl' src='/assets/koreanbots-3.png' alt='Koreanbots Second' />
+				<img loading='lazy' className='w-full py-3 rounded-2xl' src='/assets/koreanbots-2.png' alt='Koreanbots First' />
+				<img loading='lazy' className='w-full rounded-2xl' src='/assets/koreanbots-3.png' alt='Koreanbots Second' />
 			</div>
 			<div className='px-8 py-6 lg:col-span-3 bg-gradient-to-br from-red-500 to-red-400 rounded-2xl transition duration-300 ease-in'>
 				<span className='text-sm text-gray-300'>NODE.JS</span>
@@ -34,9 +34,9 @@ const Project:FC = () => {
 						<FaGlobe />
 					</Link>
 				</div>
-				<img className='w-full py-1.5 rounded-2xl' src='/assets/wonderbot-money.png' alt='Wonderbot Money' />
-				<img className='w-full py-1.5 rounded-2xl' src='/assets/wonderbot-moderation.png' alt='Wonderbot Moderation' />
-				<img className='w-full py-1.5 rounded-2xl' src='/assets/wonderbot-corona.png' alt='Wonderbot Corona' />
+				<img loading='lazy' className='w-full py-1.5 rounded-2xl' src='/assets/wonderbot-money.png' alt='Wonderbot Money' />
+				<img loading='lazy' className='w-full py-1.5 rounded-2xl' src='/assets/wonderbot-moderation.png' alt='Wonderbot Moderation' />
+				<img loading='lazy' className='w-full py-1.5 rounded-2xl' src='/assets/wonderbot-corona.png' alt='Wonderbot Corona' />
 			</div>
 		</div>
 		<div className='text-center'>
